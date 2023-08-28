@@ -1,0 +1,12 @@
+[package]
+name = "bevy_mtoon"
+version = "0.0.0"
+license = "MIT OR BSD-2-Clause-Patent"
+repository = "https://github.com/thebutlah/mtoon"
+edition = "2021"
+rust-version = "1.72.0"
+
+description = "A MToon shader in WGSL and Bevy"
+
+[dependencies]
+bevy = "0.11"
