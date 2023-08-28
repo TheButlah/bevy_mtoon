@@ -2,7 +2,7 @@
 name = "bevy_mtoon"
 version = "0.0.0"
 license = "MIT OR BSD-2-Clause-Patent"
-repository = "https://github.com/thebutlah/mtoon"
+repository = "https://github.com/thebutlah/bevy_mtoon"
 edition = "2021"
 rust-version = "1.72.0"
 
